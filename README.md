@@ -3,6 +3,18 @@
 ## Description
 This repository contains the implementation of an improved Ant Colony Optimization (ACO) algorithm based on the pheromone diffusion mechanism for path planning. The task involves implementing both the conventional ACO algorithm and the improved version as described in the provided research paper.
 
+## **Project Structure**
+```
+├── Images/               # Results
+│   ├── ACO/   
+│   ├── Compare Two Algorithm/
+│   ├── Improved ACO/
+│   ├── Last Part Results/       
+├── notebooks/          # Jupyter notebooks
+│   ├── ACO-Algorithm.ipynb   
+├── README.md           
+```
+
 ## Task Breakdown
 1. **Implement the Conventional ACO Algorithm**
    - Utilize the formulas and principles introduced in the reference paper.
